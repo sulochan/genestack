@@ -42,6 +42,7 @@ Building our cloud future has never been this simple.
   * [Post Deploy Operations](post-deploy-ops.md)
   * [Building Local Images](build-local-images.md)
   * [OVN Database Backup](ovn-db-backup.md)
+  * [Gateway API](gateway-api.md)
 
 ## Upgrades
   * [Running Genestack Upgrade](genestack-upgrade.md)
